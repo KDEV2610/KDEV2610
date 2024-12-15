@@ -1,4 +1,4 @@
-![logo](https://github.com/shyamsunder0717/shyamsunder0717/blob/main/security.png)
+![logo](C:\Users\hp\Documents\Github profile pic.jpg)
 <h1 align="center">Hi 👋, I'm Devanshi</h1>
 <h3 align="center">A passionate Java Developer, Front-end Developer & Software Developer from India</h3>
 
